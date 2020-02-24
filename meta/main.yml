@@ -1,7 +1,6 @@
 dependencies: []
 galaxy_info:
   author: Semantic Beeng
-  company: BlackRock
   description: sbt role
   galaxy_tags:
   - scala

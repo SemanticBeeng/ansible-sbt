@@ -1,6 +1,5 @@
-andrewrothstein.scala
-===========================
-[![Build Status](https://travis-ci.org/andrewrothstein/ansible-scala.svg?branch=master)](https://travis-ci.org/andrewrothstein/ansible-scala)
+semanticbeeng.sbt
+=================
 
 Installs [sbt](http://www.scala-sbt.org/) and bootstraps the compiler front-end.
 
@@ -25,7 +24,7 @@ Example Playbook
 ```yml
 - hosts: servers
   roles:
-    - andrewrothstein.scala
+    - semanticbeeng.ansible_sbt
 ```
 
 License
@@ -36,4 +35,4 @@ MIT
 Author Information
 ------------------
 
-Andrew Rothstein <andrew.rothstein@gmail.com>
+(originally) Andrew Rothstein <andrew.rothstein@gmail.com>
