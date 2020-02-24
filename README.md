@@ -1,4 +1,4 @@
-semanticbeeng.sbt
+semanticbeeng.ansible_sbt
 =================
 
 Installs [sbt](http://www.scala-sbt.org/) and bootstraps the compiler front-end.
