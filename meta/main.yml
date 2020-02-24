@@ -1,0 +1,28 @@
+dependencies: []
+galaxy_info:
+  author: Semantic Beeng
+  company: BlackRock
+  description: sbt role
+  galaxy_tags:
+  - scala
+  - java
+  - sbt
+  license:
+  - MIT
+  min_ansible_version: 1.2
+  platforms:
+  - name: EL
+    versions:
+    - all
+  - name: Fedora
+    versions:
+    - all
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    version:
+    - jessie
+  - name: Alpine
+    version:
+    - all

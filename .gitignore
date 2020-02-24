@@ -1,0 +1,7 @@
+**~
+*.retry
+Dockerfile.*
+requirements.yml
+*.tgz
+**.swp
+.idea
